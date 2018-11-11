@@ -1,1 +1,1 @@
-from mirantis/kubeadm-dind-cluster
+alpine:3.8
